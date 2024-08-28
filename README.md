@@ -6,6 +6,14 @@
 
 
 
+
+## Layout
+
+- [Split Container - C# Windows Forms Controls](https://www.youtube.com/watch?v=ESmHIevVNC8)
+- [Table Layout Panel Control In Winforms C#](https://www.youtube.com/watch?v=vcyAERtJULw)
+
+
+
 ## Auto size | Anchor
 
 - [Auto size | Anchor](https://www.youtube.com/watch?v=bKnpxTulUIs)
